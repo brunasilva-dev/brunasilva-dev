@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👩🏻‍💻 Bruna Silva
 
-<!--
-**brunasilva-dev/brunasilva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**`Desenvolvedora de Software Júnior`** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Bruna Valéria da Silva Gomes, sou formada em Ciência da Computação pela Universidade FUMEC e apaixonada por tecnologia e pelo desenvolvimento de soluções que facilitem o dia a dia das pessoas e das empresas.
+
+Tenho conhecimentos em C#, .NET, Python, JavaScript, TypeScript e Angular, além de experiência com bancos de dados relacionais e não relacionais, APIs REST e desenvolvimento de sistemas. Gosto de aprender novas tecnologias, explorar diferentes possibilidades e transformar ideias em projetos funcionais.
+
+Atualmente, tenho um interesse especial em Inteligência Artificial e busco aprofundar meus conhecimentos nessa área, com o objetivo de integrar cada vez mais recursos inteligentes aos meus projetos e desenvolver soluções que unam desenvolvimento de software, inovação e IA.
+
+Estou sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedora, aprender com outros profissionais e contribuir para a criação de soluções tecnológicas de impacto.
+
+
+---
+
+### 👩🏻‍💻 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bruna-silva-gomes">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:brunavsilva.gomes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Linguagens e Tecnologias
+
+<p align="left">
+  <img alt="C#" title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img alt=".NET" title=".NET" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="Angular" title="Angular" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
+  <img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="SQL Server" title="SQL Server" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="MongoDB" title="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+</p>
+
+### 🤖 Interesses em Tecnologia
+
+- Inteligência Artificial aplicada ao desenvolvimento de software.
+- Integração de recursos de IA em aplicações e sistemas.
+- Desenvolvimento de APIs e aplicações web.
+- Automação de processos e soluções inteligentes.
+- Aprendizado contínuo de linguagens, frameworks e novas tecnologias.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=brunasilva-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="Estatísticas do GitHub da Bruna"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasilva-dev&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
+    alt="Linguagens mais utilizadas nos repositórios da Bruna"
+  />
+</p>
+
