@@ -25,7 +25,7 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA0SDRjLTEuMSAwLTIgLjktMiAydjEyYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNmMwLTEuMS0uOS0yLTItMnptMCA0LTggNS04LTVWNmw4IDUgOC01djJ6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="E-mail"/>
   </a>
 </p>
----
+
 
 ### 🚀 Linguagens e Tecnologias
 
