@@ -42,6 +42,7 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
   <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;
   <img alt="MongoDB" title="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>&nbsp;&nbsp;
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>&nbsp;&nbsp;
+  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.simpleicons.org/github/white"/>
 
 </p>
 
